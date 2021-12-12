@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chen jinhui
 - 👀 I’m interested in play computer
-- 🌱 I’m currently learning programme
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
